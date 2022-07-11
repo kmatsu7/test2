@@ -1,0 +1,3 @@
+video: https://mainline.i3s.unice.fr/mooc/sintel.mp4
+poster: https://mainline.i3s.unice.fr/mooc/q1fx20VZ-640.jpg
+captions: https://mainline.i3s.unice.fr/mooc/sintel-captions.vtt
