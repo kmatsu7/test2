@@ -1,0 +1,50 @@
+WEBVTT
+
+Chapter-1
+00:00:00.000 --> 00:01:42.000
+{
+"description": "Opening credits",
+"image": "sintel_thumb_ch01.png"
+}
+
+Chapter-2
+00:01:43.000 --> 00:04:44.000
+{
+"description": "A dangerous quest",
+"image": "sintel_thumb_ch02.png"
+}
+
+Chapter-3
+00:04:45.000 --> 00:05:50.000
+{
+"description": "The attack",
+"image": "sintel_thumb_ch03.png"
+}
+
+Chapter-4
+00:05:51.000 --> 00:08:24.000
+{
+"description": "In pursuit",
+"image": "sintel_thumb_ch04.png"
+}
+
+Chapter-5
+00:08:25.000 --> 00:10:13.000
+{
+"description": "Cave Fight",
+"image": "sintel_thumb_ch05.png"
+}
+
+Chapter-6
+00:10:14.000 --> 00:12:24.000
+{
+"description": "Eye to eye",
+"image": "sintel_thumb_ch06.png"
+}
+
+Chapter-7
+00:12:25.000 --> 00:14:48.000
+{
+"description": "Ending Credits",
+"image": "sintel_thumb_ch07.png"
+}
